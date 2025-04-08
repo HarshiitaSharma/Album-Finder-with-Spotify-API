@@ -76,9 +76,8 @@ $ npm run dev
 
 
 
-
-
-
-
-
-**MADE WITH HELP OF CODEDEX PROJECTS.** https://www.codedex.io/projects/build-an-album-finder-with-spotify-api
+Acknowledgments
+Spotify Web API: For providing the music data used in this project.
+React: The JavaScript library used to build the user interface.
+Vite: The build tool for fast development and production builds.
+Codedex: For the inspiration and project template, providing the base structure to kickstart this project.
